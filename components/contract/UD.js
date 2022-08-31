@@ -5,7 +5,7 @@ import { Button } from "react-bootstrap"
 const uauth = new UAuth({
     
         clientID: "a177ab5c-b4f8-497b-a066-531698eef4b0",
-        redirectUri: "https://drain-od8n4feev-ayush035.vercel.app/"
+        redirectUri: "https://drain-psi.vercel.app/"
         
       
 })
