@@ -3,8 +3,11 @@ import UAuth from "@uauth/js"
 import { Button } from "react-bootstrap"
 
 const uauth = new UAuth({
-    clientID: "ca047f44-91d0-42be-98b1-45557369cc19",
-    redirectUri: "http://localhost:3000"
+    
+        clientID: "a177ab5c-b4f8-497b-a066-531698eef4b0",
+        redirectUri: "https://drain-od8n4feev-ayush035.vercel.app/"
+        
+      
 })
 
 function UD() {
