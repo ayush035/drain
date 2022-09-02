@@ -13,7 +13,7 @@
 
 <br/>
 
-## [Live Deploy Link](https://drain.on.fleek.co/)
+## [Live Deploy Link](https://drain-psi.vercel.app/)
 
 ## Network Support
 
